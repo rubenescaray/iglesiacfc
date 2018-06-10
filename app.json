@@ -1,0 +1,27 @@
+{
+	"expo": {
+	  "name": "IglesiaCFC",
+	  "description": "Aplicación móvil para Iglesia CFC",
+	  "slug": "CFC",
+	  "privacy": "public",
+	  "sdkVersion": "17.0.0",
+	  "version": "2.0.0",
+	  "orientation": "portrait",
+	  "primaryColor": "#cccccc",
+	  "icon": "./assets/icons/app.png",
+	  "loading": {
+	    "icon": "./assets/icons/app.png",
+	    "hideExponentText": false
+	  },
+	  "packagerOpts": {
+	    "assetExts": ["ttf", "mp4"]
+	  },
+	  "ios": {
+	    "supportsTablet": true,
+	    "bundleIdentifier": "ve.com.irosshipaz.iglesiacfc"
+	  },
+	  "android": {
+	    "package": "ve.com.irosshipaz.iglesiacfc"
+	  }
+	}
+}

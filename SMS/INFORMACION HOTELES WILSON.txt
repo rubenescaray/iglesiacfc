@@ -1,0 +1,26 @@
+Hoteles:
+Ciudad Neily
+Guapiles
+Liberia
+Los Chiles
+Nicoya - Doña Marta
+Nicoya - El Regalo
+Parrita
+Rio Claro
+Tilaran
+Upala
+
+Tipo:
+Estandar
+Junior Suite
+Apartamento
+
+Cantidad:
+1
+2
+3
+4
+5 o mas
+
+farckbrong72@gmail.com
+121200

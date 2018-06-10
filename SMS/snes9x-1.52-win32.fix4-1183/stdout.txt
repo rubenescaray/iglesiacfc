@@ -1,0 +1,25 @@
+Reading config file C:\Users\Escaray\Desktop\snes9x-1.52-win32.fix4-1183/snes9x.conf.
+Saving	config file	C:\Users\Escaray\Desktop\snes9x-1.52-win32.fix4-1183/snes9x.conf
+Sound buffer size: 8192 (2048 samples)
+No ROM file header found.
+Map_HiROMMap
+"CHRONO TRIGGER" [checksum ok] HiROM, 32Mbits, ROM+RAM+BAT, NTSC, SRAM:64Kbits, ID:ACTE, CRC32:2D206BF7
+Sound buffer size: 8192 (2048 samples)
+absent: SFX(996); next: 'SHO:734213:'
+absent: SA1(49); next: 'SHO:734213:'
+absent: SAR(16); next: 'SHO:734213:'
+absent: DP1(1449); next: 'SHO:734213:'
+absent: DP2(1066); next: 'SHO:734213:'
+absent: DP4(1297); next: 'SHO:734213:'
+absent: CX4(8192); next: 'SHO:734213:'
+absent: ST0(35); next: 'SHO:734213:'
+absent: OBC(6); next: 'SHO:734213:'
+absent: OBM(8192); next: 'SHO:734213:'
+absent: S71(219); next: 'SHO:734213:'
+absent: SRT(8); next: 'SHO:734213:'
+absent: CLK(20); next: 'SHO:734213:'
+absent: BSX(147); next: 'SHO:734213:'
+absent: MOV(4); next: ''
+Sound buffer size: 8192 (2048 samples)
+Sound buffer size: 8192 (2048 samples)
+Saving	config file	C:\Users\Escaray\Desktop\snes9x-1.52-win32.fix4-1183/snes9x.conf

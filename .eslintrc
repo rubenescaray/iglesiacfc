@@ -1,0 +1,9 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "arrow-body-style": 0,
+    "import/no-named-as-default-member": 0,
+    "global-require": 0,
+    "prefer-const": 0,
+  }
+}
